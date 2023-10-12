@@ -21,7 +21,9 @@ form label {
 }
 
 #ingredients-list {
-    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #ingredients-list ul {
